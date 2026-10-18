@@ -1,1 +1,1 @@
-# curriculum-assignments
+# clp-exercises
